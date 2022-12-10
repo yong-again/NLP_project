@@ -2,7 +2,7 @@
 
 ```
 2022.11.05
-- LSTM, Seq2Seq : Only Python
+- LSTM, Seq2Seq : Only Python -> tensorflow, torch
 - Transformer : Using Libary
 
 
